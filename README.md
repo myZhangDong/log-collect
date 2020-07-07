@@ -56,6 +56,12 @@ logger.log('test logger')
     maxCache: 3*1024*1024 //缓存日志最大值
 }
 
+## License
+Copyright (c) 2020 eastzhang  
+Licensed under the MIT license.
+
+## [github](https://github.com/myZhangDong/log-collect)
+
 
 
 
