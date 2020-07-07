@@ -12,14 +12,14 @@ log-collect 没有更多的功能，但都是很实用的，可以用它做日�
 
 ## Download
 ```shell
-npm install log-collect --save-dev
+npm install @eastzhang/logcollector --save-dev
 ```
 
 ## 示例
 
 引入：
 ```javascript
-import Logger from log-collect
+import Logger from @eastzhang/logcollector
 
 Logger.trace('trace')
 Logger.warn('warn')

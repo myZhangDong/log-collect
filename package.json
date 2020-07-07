@@ -1,5 +1,5 @@
 {
-  "name": "log-collect",
+  "name": "@eastzhang/logcollector",
   "version": "1.0.0",
   "description": "Minimal lightweight logging for JavaScript,It can be used to collect logs and export them",
   "main": "./lib/index.js",
