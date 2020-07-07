@@ -1,14 +1,14 @@
 # log-collect
 
-log-collect是一个简单、轻量级的日志控制、采集模块。它使用浏览器的console方法，不会丢失行号、堆栈等信息，同时又能提供日志的级别控制，和日志的采集导出功能。
+@eastzhang/logcollector是一个简单、轻量级的日志控制、采集模块。它使用浏览器的console方法，不会丢失行号、堆栈等信息，同时又能提供日志的级别控制，和日志的采集导出功能。
 
 ## Features
 
 ### 简单
-log-collect 使用浏览器自带的console，功能简单，是可以用来代替浏览器原生console的方法，同时提供日志级别和采集功能。可以很方便的使用它采集日志追踪问题。
+@eastzhang/logcollector 使用浏览器自带的console，功能简单，是可以用来代替浏览器原生console的方法，同时提供日志级别和采集功能。可以很方便的使用它采集日志追踪问题。
 
 ### 实用
-log-collect 没有更多的功能，但都是很实用的，可以用它做日志级别控制，也可以很方便的使用它采集日志来追踪问题，同时可以设置日志缓存的大小（默认3M），从而不影响性能。
+@eastzhang/logcollector 没有更多的功能，但都是很实用的，可以用它做日志级别控制，也可以很方便的使用它采集日志来追踪问题，同时可以设置日志缓存的大小（默认3M），从而不影响性能。
 
 ## Download
 ```shell
@@ -57,7 +57,7 @@ logger.log('test logger')
 }
 
 ## License
-Copyright (c) 2020 eastzhang  
+Copyright (c) 2020 张东  
 Licensed under the MIT license.
 
 ## [github](https://github.com/myZhangDong/log-collect)
