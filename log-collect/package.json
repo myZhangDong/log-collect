@@ -1,0 +1,16 @@
+{
+  "name": "log-collect",
+  "version": "1.0.0",
+  "description": "Minimal lightweight logging for JavaScript,It can be used to collect logs and export them",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":["log", "collect"],
+  "author": "eastzhang",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "license": "ISC"
+}
